@@ -10,6 +10,6 @@ Check out my recent projects:
 - Escape Room Quest:
     - repo https://github.com/magklax/rsclone
     - deploy https://rsclone-trap-quest.netlify.app/
-- Apopt Pets Mobile App:
+- Adopt Pets React Native Mobile App:
     - repo https://github.com/magklax/my-pets-app
     - deploy https://expo.io/@magklax/my-pets-app (requires expo)
