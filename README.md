@@ -3,7 +3,7 @@ My name is Nadia. I am a developer and currently:
 - learning React and React Native 📕 
 - looking for an inspiring job 💣
 
-Check out my recent projects:
+Check out [my portfolio](https://magklax.github.io/prokopyeva.en) or recent projects:
 - English for Kids:
    - repo https://github.com/magklax/english-for-kids/tree/english
    - deploy https://magklax-english-for-kids.netlify.app/
@@ -14,4 +14,4 @@ Check out my recent projects:
     - repo https://github.com/magklax/my-pets-app
     - deploy https://expo.io/@magklax/my-pets-app (requires expo)
 
-[my portfolio](https://magklax.github.io/prokopyeva.en)
+
