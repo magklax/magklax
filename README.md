@@ -13,3 +13,5 @@ Check out my recent projects:
 - Adopt Pets React Native Mobile App:
     - repo https://github.com/magklax/my-pets-app
     - deploy https://expo.io/@magklax/my-pets-app (requires expo)
+
+[my portfolio](https://magklax.github.io/prokopyeva.en)
