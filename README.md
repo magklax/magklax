@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Nadia. I am a developer and currently:
+My name is Nadia. I am a Junior JavaScript developer and currently:
 - learning React and React Native 📕 
 - looking for an inspiring job 💣
 
