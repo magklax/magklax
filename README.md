@@ -16,4 +16,6 @@ Check out [my portfolio](https://nadiia-portfolio.netlify.app/) or recent projec
 - React Hooks Pop and Spell Game:
      - repo https://github.com/magklax/react-game
      - deploy https://magklax-react-game.netlify.app
-
+- React Hooks + Redux + MERN Travel App :
+     - repo https://github.com/magklax/travel-app
+     - deploy https://travel-app-team-40.netlify.app/
