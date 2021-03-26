@@ -19,3 +19,5 @@ Check out [my portfolio](https://nadiia-portfolio.netlify.app/) or recent projec
 - React Hooks + Redux + MERN Travel App :
      - repo https://github.com/magklax/travel-app
      - deploy https://travel-app-team-40.netlify.app/
+
+#### 👀 feel free to connect me on [linkedin](https://www.linkedin.com/in/nadezda-prokopyeva/) 👀 
