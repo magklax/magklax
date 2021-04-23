@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Nadia. I am a Junior JavaScript developer and currently:
-- learning React and React Native 📕 
+My name is Nadia. I am a Junior JavaScript/React developer and currently:
+- learning React Native and Node.js 📕 
 - looking for an inspiring job 💣
 
 Check out [my portfolio](https://nadiia-portfolio.netlify.app/) or recent projects:
