@@ -3,7 +3,7 @@ My name is Nadia. I am a Junior JavaScript/React developer and currently:
 - learning React Native and Node.js 📕 
 - looking for an inspiring job 💣
 
-Check out [my portfolio](https://nadiia-portfolio.netlify.app/) or recent projects:
+Check out some of my recent projects:
 - Pure JavaScript English for Kids:
    - repo https://github.com/magklax/english-for-kids/tree/english
    - deploy https://magklax-english-for-kids.netlify.app
