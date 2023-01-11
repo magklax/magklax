@@ -1,7 +1,5 @@
 ### Hi there 👋
-My name is Nadia. I am a Junior JavaScript/React developer and currently:
-- learning React Native and Node.js 📕 
-- looking for an inspiring job 💣
+My name is Nadia. I am a JavaScript/React developer
 
 Check out some of my recent projects:
 - Pure JavaScript English for Kids:
@@ -22,5 +20,3 @@ Check out some of my recent projects:
 - React Hooks + Redux + MERN English Learning App (inspired by Lingua Leo)
      - repo https://github.com/SpaNb4/rslang
      - deploy https://rslang-team40.netlify.app/
-
-#### 👀 feel free to connect me on [linkedin](https://www.linkedin.com/in/nadezda-prokopyeva/) 👀 
